@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🔭 I’m currently exploring the fields of Machine Learning and Deep Learning. 
 <!--
 **harshitmuhal/harshitmuhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
