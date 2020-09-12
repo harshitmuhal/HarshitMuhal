@@ -24,8 +24,8 @@
 ### 📕 Articles Authored by me:
 
 <!-- BLOG-POST-LIST:START -->
-- [Compute Natural Base-10 and Base-2 logarithm using Numpy](https://www.geeksforgeeks.org/how-to-compute-natural-base-10-and-base-2-logarithm-for-all-elements-in-a-given-array-using-numpy/)
 - [Implementation of Locally Weighted Linear Regression](https://www.geeksforgeeks.org/implementation-of-locally-weighted-linear-regression/)
+- [Compute Natural Base-10 and Base-2 logarithm using Numpy](https://www.geeksforgeeks.org/how-to-compute-natural-base-10-and-base-2-logarithm-for-all-elements-in-a-given-array-using-numpy/)
 - [LIS formed by concatenating array to itself N times](https://www.geeksforgeeks.org/longest-increasing-sub-sequence-formed-by-concatenating-array-to-itself-n-times/)
 <!-- BLOG-POST-LIST:END -->
 
