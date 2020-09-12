@@ -21,16 +21,14 @@
 <br />
 <br />
 
-### 📕 Articles Authored by me:
+### Articles Authored by me: [click here](https://auth.geeksforgeeks.org/user/harshitmuhal/articles)
 
-<!-- BLOG-POST-LIST:START -->
+<!-- 
 - [Implementation of Locally Weighted Linear Regression](https://www.geeksforgeeks.org/implementation-of-locally-weighted-linear-regression/)
 - [Compute Natural Base-10 and Base-2 logarithm using Numpy](https://www.geeksforgeeks.org/how-to-compute-natural-base-10-and-base-2-logarithm-for-all-elements-in-a-given-array-using-numpy/)
 - [LIS formed by concatenating array to itself N times](https://www.geeksforgeeks.org/longest-increasing-sub-sequence-formed-by-concatenating-array-to-itself-n-times/)
-<!-- BLOG-POST-LIST:END -->
-
 ➡️ [more articles...](https://auth.geeksforgeeks.org/user/harshitmuhal/articles)
-
+-->
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -38,6 +36,12 @@
 <img align="left" alt="Harshit Muhal Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitmuhal">
 
 </details>
+
+
+<!-- TO PIN EXTRA REPOSITORIES !!!!!!!!
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harshit muhal&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 <!--
 **harshitmuhal/harshitmuhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
