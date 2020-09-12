@@ -19,7 +19,7 @@
 <img align="left" alt="Pandas" width="54px" src="https://user-images.githubusercontent.com/42070734/92986827-2db3e180-f4db-11ea-9d85-6885931c2e09.png" />
 <img align="left" alt="keras" width="54px" src="https://user-images.githubusercontent.com/42070734/92986820-2ab8f100-f4db-11ea-9b97-a6ff4463a0f1.png" />
 <img align="left" alt="sklearn" width="52px" src="https://user-images.githubusercontent.com/42070734/92986821-2b518780-f4db-11ea-830b-7be4a3b57a53.png" />
-<img align="left" alt="macos" width="45px" src="https://user-images.githubusercontent.com/42070734/92986824-2c82b480-f4db-11ea-8c17-825757b69c56.png" />
+<img align="left" alt="macos" width="34px" src="https://user-images.githubusercontent.com/42070734/92986824-2c82b480-f4db-11ea-8c17-825757b69c56.png" />
 <img align="left" alt="Windows" width="35px" src="https://user-images.githubusercontent.com/42070734/92986822-2b518780-f4db-11ea-8d92-f49e4f983f76.png" />
 <img align="left" alt="Django" width="52px" src="https://user-images.githubusercontent.com/42070734/92986819-2a205a80-f4db-11ea-81d8-cb20b5817197.png" />
 <img align="left" alt="HTML5" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
