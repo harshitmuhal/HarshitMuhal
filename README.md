@@ -3,10 +3,12 @@
 - ⚡ I like to do painting and sketching.
 
 ### Connect with me:
+<!--
+<a href="myblog/protfolio website address"><img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+-->
+<a href="https://www.linkedin.com/in/harshitmuhal/"><img align="left" alt="LinkedIn - harshitmuhal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn - harshitmuhal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<a href="https://www.linkedin.com/in/harshitmuhal/"><img align="left" alt="Instagram - " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]</a>
+<a href="https://www.instagram.com/harshit.muhal/"><img align="left" alt="Instagram - harshit.muhal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <br />
 
