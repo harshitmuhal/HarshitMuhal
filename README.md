@@ -1,4 +1,3 @@
-### Hi there 👋
 - 🔭 I’m currently exploring the fields of Machine Learning and Deep Learning. 
 - ⚡ I like to do painting and sketching.
 
@@ -28,17 +27,13 @@
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
-<br />
-
 ### Articles Authored by me: [click here](https://auth.geeksforgeeks.org/user/harshitmuhal/articles)
-
 <!-- 
 - [Implementation of Locally Weighted Linear Regression](https://www.geeksforgeeks.org/implementation-of-locally-weighted-linear-regression/)
 - [Compute Natural Base-10 and Base-2 logarithm using Numpy](https://www.geeksforgeeks.org/how-to-compute-natural-base-10-and-base-2-logarithm-for-all-elements-in-a-given-array-using-numpy/)
 - [LIS formed by concatenating array to itself N times](https://www.geeksforgeeks.org/longest-increasing-sub-sequence-formed-by-concatenating-array-to-itself-n-times/)
 ➡️ [more articles...](https://auth.geeksforgeeks.org/user/harshitmuhal/articles)
 -->
-
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="Harshit Muhal Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshitmuhal&show_icons=true&hide=stars&count_private=true" />
