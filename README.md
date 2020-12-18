@@ -1,19 +1,25 @@
-### Hey there!!
+### Hi there, I'm [Harshit!](https://harshitmuhal.github.io) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 - 🌱 I am pursuing my Bachelor’s degree in the stream of Computer Engineering from Delhi Technological University. 
 - 🔭 I’m currently exploring the fields of Machine Learning and Deep Learning. 
+- 🎆 I'm Open for New Opportunities.
+- 👯 I’m looking to collaborate on any cool Project related to Machine learning.
 - ⚡ I like to do painting and sketching.
 
 ### Connect with me:
 
-<a href="https://harshitmuhal.github.io"><img align="left" alt="https://harshitmuhal.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://harshitmuhal.github.io"><img align="left" alt="https://harshitmuhal.github.io" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 
-<a href="https://www.linkedin.com/in/harshitmuhal/"><img align="left" alt="LinkedIn - harshitmuhal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/harshitmuhal/"><img align="left" alt="LinkedIn - harshitmuhal" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-<a href="https://www.instagram.com/harshit.muhal/"><img align="left" alt="Instagram - harshit.muhal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.instagram.com/harshit.muhal/"><img align="left" alt="Instagram - harshit.muhal" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <br />
 
-### Languages/Tools/Frameworks/Technologies:
+<!--
+![Profile Views](https://komarev.com/ghpvc/?username=harshitmuhal)
+-->
+
+### Tools and Technologies:
 <img align="left" alt="Python" width="35px" src="https://user-images.githubusercontent.com/42070734/92986829-2db3e180-f4db-11ea-83c7-f864703a7df8.png" />
 <img align="left" alt="C++" width="32px" src="https://user-images.githubusercontent.com/42070734/92986823-2bea1e00-f4db-11ea-8ec7-6b9330381fed.jpg" />
 <img align="left" alt="Numpy" width="59px" src="https://user-images.githubusercontent.com/42070734/92986814-25f43d00-f4db-11ea-9ffa-5d1715c45ddb.png" />
@@ -46,14 +52,18 @@
 
 </details>
 
+### Trending Repositories 📖
 
-<!-- TO PIN EXTRA REPOSITORIES !!!!!!!!
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harshit muhal&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
--->
+<a href="https://github.com/harshitmuhal/Image-Captioning">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=harshitmuhal&repo=Image-Captioning" />
+</a>
+
+<a href="https://github.com/harshitmuhal/IMDb-review-sentiment-analysis">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=harshitmuhal&repo=IMDb-review-sentiment-analysis" />
+</a>
 
 <!--
 **harshitmuhal/harshitmuhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -64,4 +74,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🎪 [Visual Portfolio](https://sourcerer.io/avinashkranjan)
+- 🔭 I’m currently working as Freelancer 💻
+- 🌱 I’m currently learning Full Stack Development 
+- 🤔 I’m looking for help with Open Source Project Development 
+- 📫 You can reach at: ranjan.avinash@hotmail.com 
+
 -->
